@@ -1,75 +1,61 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+</p>
 
+<h1 align="center">Hi, I'm Pdr 👋</h1>
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=435&lines=+Backend+developer+in+training;Chosen,+the+Father." alt="Typing SVG" /></a>
-</div>
+<p align="center">
+  Bot Creator • Full-Stack Developer • Web Developer • Mobile Developer • Full-Stack 
+</p>
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=dwistnces&style=flat-square&color=000000&label=PROFILE+VIEWS)
-
-
----
-
-<br/><br/>
-
-<div align="center">
-
-<table width="100%">
-<tr>
-
-<td align="left" width="50%">
-
-<div style="background-color:#111; padding:20px 25px; border-radius:12px;">
-
-<pre>
-◈  Origin    →  Brazil 🇧🇷
-</pre>
-
-</div>
-
-</td>
-
-<td align="right" width="50%">
-
-<div style="border-radius:18px; overflow:hidden;">
-
-<img 
-  width="400"
-  src="https://github.com/user-attachments/assets/5c6ffe80-cef0-40ed-ba4c-6b2b836594ea"
-/>
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br/><br/>
-## Technologies
-
-<div align="center">
-
-Sei nada de programação, sou um merda.
-
-</div>
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Bot+Creator;Full-Stack+Developer;Web+Developer;Always+Learning...;Mobile+Developer;Engenheiro+de+Software;Criador+de+Bots+Para+o+Discord" />
+</p>
 
 ---
 
-<br/><br/>
+##  Sobre mim
 
-## Statistics
-<div align="center">
-<img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" />
+- Criador de bots e  websites 
+- Focado em automação e eficiência  
 
-<img src="https://streak-stats.demolab.com?user=dwistnces&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
+---
 
-<br/>
+##  Estatísticas
 
-</div>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ghosttobygg&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosttobygg&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+##  Contato
+
+<p align="center">
+  <a href="mailto:contatosoninhodev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <br><br>
+  <a href="https://discord.com/users/1357179231108464772">
+    <img src="https://img.shields.io/badge/Discord-neurose-0f172a?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ✝ Palavra
+
+Deuteronômio Cap. 5 
+
+ E chamou Moisés a todo o Israel e disse-lhes: Ouve, ó Israel, os estatutos e juízos que hoje vos falo aos ouvidos; e aprendê-los-eis e guardá-los-eis, para os cumprir.
+
+---
+
+<p>
+ Feito com muito amor e código por Pdr.</p>
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1357179231108464772)](https://discord.com/users/1357179231108464772)
 
 ---
