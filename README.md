@@ -24,8 +24,8 @@
 ##  Estatísticas
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ghosttobygg&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosttobygg&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=28pdr&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=28pdr&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -33,11 +33,11 @@
 ##  Contato
 
 <p align="center">
-  <a href="mailto:contatosoninhodev@gmail.com">
+  <a href="mailto:pdr.contato@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <br><br>
-  <a href="https://discord.com/users/1357179231108464772">
+  <a href="https://discord.com/users/1566948846016397452">
     <img src="https://img.shields.io/badge/Discord-neurose-0f172a?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
@@ -56,6 +56,6 @@ Deuteronômio Cap. 5
  Feito com muito amor e código por Pdr.</p>
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1357179231108464772)](https://discord.com/users/1357179231108464772)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1566948846016397452)
 
 ---
