@@ -38,7 +38,7 @@
   </a>
   <br><br>
   <a href="https://discord.com/users/1566948846016397452">
-    <img src="https://img.shields.io/badge/Discord-neurose-0f172a?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-28pdr-0f172a?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
